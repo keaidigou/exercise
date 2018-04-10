@@ -1,4 +1,5 @@
 
+
 ###### exercise1
 ```
 把一個陣列全部都平方
@@ -53,6 +54,7 @@ numbers_squared[i]=numbers[i]*numbers[i];
 
 
 ```
+![result](PIC/EX1.jpg)
 ###### exercise2
 
 ```
