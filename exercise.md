@@ -54,7 +54,7 @@ numbers_squared[i]=numbers[i]*numbers[i];
 
 
 ```
-![result](PIC/EX1.jpg)
+![result](PIC/EX1.jpg )
 ###### exercise2
 
 ```
