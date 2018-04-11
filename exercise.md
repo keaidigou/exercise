@@ -50,7 +50,7 @@ int main()
 ```
 ```
 說明:
-numbers_squared[i]=numbers[i]*numbers[i];
+numbers_squared[i]=numbers[i]*numbers[i];  //將一個陣列的平方乘以自己再丟給另一個陣列
 
 
 ```
